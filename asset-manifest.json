@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02fff6a4.css",
+    "main.js": "/static/js/main.db87be36.js",
+    "static/media/idukki image.jpg": "/static/media/idukki image.5728835e9a28f6a0e99a.jpg",
+    "static/media/food1.jpeg": "/static/media/food1.4aaa2616d686ff9cbe7a.jpeg",
+    "static/media/river.jpg": "/static/media/river.3183f02b6f1f6ffc596c.jpg",
+    "static/media/logo.png": "/static/media/logo.e901703275dabb32ec09.png",
+    "static/media/hillside.jpg": "/static/media/hillside.e6126f041ee948965fc8.jpg",
+    "static/media/food2.jpg": "/static/media/food2.922958a510cd80422a8f.jpg",
+    "index.html": "/index.html",
+    "main.02fff6a4.css.map": "/static/css/main.02fff6a4.css.map",
+    "main.db87be36.js.map": "/static/js/main.db87be36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02fff6a4.css",
+    "static/js/main.db87be36.js"
+  ]
+}
